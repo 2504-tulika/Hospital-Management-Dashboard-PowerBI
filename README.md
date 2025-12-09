@@ -97,7 +97,7 @@ The aim is to bring **clarity, efficiency, and actionable insights** for better 
 ## 🖼 Screenshots
 
 ### **Home page**
-![Medicine](assets/screenshots/home.png)
+![Home](assets/screenshots/home.png)
 
 ### **Overview Dashboard**
 ![Overview](assets/screenshots/overview.png)
@@ -109,7 +109,7 @@ The aim is to bring **clarity, efficiency, and actionable insights** for better 
 ![Doctor](assets/screenshots/doctor.png)
 
 ### **Hospital**
-![Operations](assets/screenshots/hospital.png)
+![Hospital](assets/screenshots/hospital.png)
 
 ---
 
