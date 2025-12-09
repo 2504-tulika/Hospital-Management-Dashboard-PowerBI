@@ -109,7 +109,7 @@ The aim is to bring **clarity, efficiency, and actionable insights** for better 
 ![Doctor](assets/screenshots/doctor.png)
 
 ### **Hospital**
-![Hospital](assets/screenshots/hospital.png)
+![Hospital](assets/screenshots/hospital info.png)
 
 ---
 
