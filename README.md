@@ -96,6 +96,9 @@ The aim is to bring **clarity, efficiency, and actionable insights** for better 
 
 ## 🖼 Screenshots
 
+### **Home page**
+![Medicine](assets/screenshots/home.png)
+
 ### **Overview Dashboard**
 ![Overview](assets/screenshots/overview.png)
 
@@ -105,11 +108,8 @@ The aim is to bring **clarity, efficiency, and actionable insights** for better 
 ### **Doctor Dashboard**
 ![Doctor](assets/screenshots/doctor.png)
 
-### **Hospital Operations**
-![Operations](assets/screenshots/operations.png)
-
-### **Medicine Tracker**
-![Medicine](assets/screenshots/medicine.png)
+### **Hospital**
+![Operations](assets/screenshots/hospital.png)
 
 ---
 
